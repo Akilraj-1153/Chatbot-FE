@@ -1,0 +1,11 @@
+.opbox{
+    height: 70vh;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-color: white;
+}
+.ques{
+    background-color:tan;
+    height: 8vh;
+    border-radius: 20px 20px 0 0;
+}
